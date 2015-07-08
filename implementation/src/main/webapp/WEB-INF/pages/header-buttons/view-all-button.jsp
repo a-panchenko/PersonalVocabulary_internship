@@ -1,0 +1,1 @@
+<input type="button" id="headerButton" value='<spring:message code="label.viewallbtn"></spring:message>' onclick="goToPage('${pageContext.request.contextPath}/words')">

@@ -1,0 +1,35 @@
+#version control folders
+.svn
+.git
+
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+#eclipse files
+.classpath
+.project
+.settings
+
+#IDEA IntelliJ config files
+.idea/
+*.iml
+
+#maven target directories
+target/
+
+#build directory
+build/
+
+#word work lock files
+~$*.docx
+
+#log and report files
+logs
+*.log
+
+jdbc.properties
+/implementation/src/main/resources/db/jdbc.properties

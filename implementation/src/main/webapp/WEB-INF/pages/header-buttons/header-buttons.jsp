@@ -1,0 +1,2 @@
+   	<input type="button" id="headerButton" value="<spring:message code="label.signoutbtn"></spring:message>" onclick="goToPage('${pageContext.request.contextPath}/logout')">   	   	
+   	<input type="button" id="headerButton" value="<spring:message code="label.deluserbttn"></spring:message>" onclick="goToPage('${pageContext.request.contextPath}/delete_user')">  

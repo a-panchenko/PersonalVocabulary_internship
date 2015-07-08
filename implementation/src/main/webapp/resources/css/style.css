@@ -1,0 +1,90 @@
+.signUpLogIn {
+	display: inline-block;
+	margin-left: 40%;	
+	margin-top: 10%;
+	padding: 10px;
+	line-height: 20px;	
+}
+
+.signUpLogIn a {
+	font-size: x-small;
+	text-decoration: none;
+}
+
+.fixed-nav-bar {
+    position: fixed;
+    
+    top: 0;
+    left: 0;
+    z-index: 9999;
+    width: 100%;
+    height: 50px;
+    background-color: #00a087;
+}
+
+.wrapper {
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 50px;
+    border: 1px solid #00a087;
+    padding: 10px;
+}
+
+.wrapper a{
+    text-decoration: none;
+    color: #252525;
+}
+
+.wrapper a:hover {
+	text-decoration: underline;
+    color: #7D1B7E;
+}
+
+.left-header {
+	margin-left: 10%;
+	float: left;
+    margin-top: 12px;
+    height: 25px;
+}
+
+.right-header {
+	float: right;
+    margin-right: 10%;
+    margin-top: 12px;
+    height: 25px;
+}
+
+#headerButton {
+	height: 25px;
+}
+
+
+#border {
+	border: 1px black solid;
+}
+
+table {
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+table td {
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+
+.textbox {
+    width: 100%;
+}
+
+#synonym_input {
+    width: 87%;
+}
+
+hr {
+    color: #00a087;
+}
+
+.disabled_input {
+	readonly:;
+}

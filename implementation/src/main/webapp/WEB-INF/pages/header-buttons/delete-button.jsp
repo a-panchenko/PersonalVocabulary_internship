@@ -1,0 +1,1 @@
+<input type="button" id="headerButton" value='<spring:message code="label.deletewordbtn"></spring:message>' onclick="goToPage('${pageContext.request.contextPath}/delete_word?wordId=${word.wordId}')">

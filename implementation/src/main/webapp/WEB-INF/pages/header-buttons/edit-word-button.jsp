@@ -1,0 +1,1 @@
+<input type="button" id="headerButton" value='<spring:message code="label.editwordbtn"></spring:message>' onclick="goToPage('${pageContext.request.contextPath}/edit_word?wordId=${word.wordId}')">
